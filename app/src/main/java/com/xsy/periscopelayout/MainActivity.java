@@ -7,6 +7,7 @@ import android.view.View;
 public class MainActivity extends AppCompatActivity {
 
     private FavorLayout favor;
+    final private static String str2 = "这是master分支";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
