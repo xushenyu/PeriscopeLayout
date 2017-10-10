@@ -7,6 +7,7 @@ import android.view.View;
 public class MainActivity extends AppCompatActivity {
 
     private FavorLayout favor;
+    final private static String str1 = "这是第一条";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
